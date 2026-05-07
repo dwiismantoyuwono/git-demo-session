@@ -3,7 +3,7 @@ export default function Home() {
     <main className="min-h-screen bg-white text-black flex flex-col items-center justify-center p-8">
       <div className="max-w-2xl w-full border-2 border-black p-12 space-y-6">
         <div className="space-y-2">
-          <h1 className="text-6xl font-bold tracking-tighter uppercase">Git Demo Session</h1>
+          <h1 className="text-6xl font-bold tracking-tighter uppercase">Git Mastery</h1>
           <p className="text-xl font-medium text-gray-500">Initial State: Boring but functional.</p>
         </div>
         
