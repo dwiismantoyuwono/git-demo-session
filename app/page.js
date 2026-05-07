@@ -11,7 +11,7 @@ export default function Home() {
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className="border border-black p-6 hover:bg-black hover:text-white transition-colors cursor-pointer">
-            <h2 className="font-bold text-2xl mb-2">Branching</h2>
+            <h2 className="font-bold text-2xl mb-2">Branching Edit</h2>
             <p className="text-sm opacity-70">Learn how to work in isolation without breaking the main code.</p>
           </div>
           
